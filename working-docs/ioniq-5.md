@@ -42,7 +42,7 @@ The Ioniq 5 received a significant mid-cycle facelift for the **2025 model year*
 
 ## Why this is the #1 pick
 
-Every single trim level includes ACC and electric tailgate as standard. When buying used, you don't have to check whether the seller spec'd those options — they're always there. That's a significant advantage when browsing listings.
+Every single trim level includes predictive ACC (NSCC), blind spot detection, traffic sign recognition, and electric tailgate as standard. When buying used, you don't have to check whether the seller spec'd those options — they're always there. That's a significant advantage when browsing listings.
 
 The 800V platform is the other standout. At a fast charger (e.g. Fastned, Ionity), it charges at up to 233 kW, meaning a genuine 18-minute stop takes you from 10% to 80%. For the UK and Belgium trips, this matters.
 
@@ -63,22 +63,26 @@ Note: Heat pump is standard on Lounge and above. Always verify this on a specifi
 
 ---
 
-## Features vs wishlist
+## Features vs wishlist (16-item list, updated 8 April 2026)
 
-| Feature | Status |
-|---------|--------|
-| Adaptive cruise control | ✅ Standard on ALL trims |
-| Electric tailgate | ✅ Standard on ALL trims |
-| Panoramic glass ⭐ PRIORITY | ✅ From Lounge trim — **large fixed vision roof, best of the three shortlisted cars for light and space**. Single glass panel, no cross-bar supports, praised by reviewers as "incredibly expansive". Has motorised sunblind. Does not open, but that doesn't matter — the sense of light is excellent. |
-| Parking assist (automated) | ✅ From Ultimate trim (option on Lounge) |
-| Reversing / 360° camera | ✅ From Lounge trim |
-| Leather / premium seats | ✅ From Ultimate trim |
-| Wireless phone charging | ✅ Most trims |
-| Wireless CarPlay | ✅ Most trims |
-| Heated seats | ✅ Standard |
-| Blind spot + rear cross-traffic | ✅ Standard |
-| Fold-out rear tables | ❌ Not available (suggest aftermarket tablet holders) |
-| Rear window blinds | ❌ Not available (suggest magnetic shades) |
+| # | Feature | Status |
+|---|---------|--------|
+| 1 | **Predictive ACC (NSCC)** | ✅ Navigation-based Smart Cruise Control — standard ALL trims. Adjusts speed for curves, speed limits, and junctions using nav data. |
+| 2 | **Blind spot detection** | ✅ Standard — all trims (camera-based blind-spot *view monitor* is Lounge+, but collision-avoidance assist is standard) |
+| 3 | **Traffic sign recognition** | ✅ Standard — all trims. Camera reads speed limits; with NSCC active, the car adjusts speed to match. |
+| 4 | **Panoramic glass** ⭐ | ✅ From Lounge trim — **large fixed vision roof, best of the three for light and space**. Single glass panel, no cross-bar supports. Has motorised sunblind. |
+| 5 | **Reversing / 360° camera** | ✅ From Lounge trim |
+| 6 | **Park assist (SPA)** | ✅ Smart Parking Assist — From Ultimate trim (option on Lounge). Car measures space and steers; you handle pedals. |
+| 7 | Electric tailgate | ✅ Standard ALL trims |
+| 8 | Air conditioning | ✅ Standard |
+| 9 | Leather / premium seats | ✅ From Ultimate trim |
+| 10 | Fold-out rear tables | ❌ Not available (suggest aftermarket tablet holders) |
+| 11 | Rear window blinds | ❌ Not available (suggest magnetic shades) |
+| 12 | Tinted rear windows | ✅ Most trims |
+| 13 | Hill start assist | N/A (EVs hold automatically) |
+| 14 | Wireless phone charging | ✅ Most trims |
+| 15 | Cooled seats | ❌ Not available |
+| 16 | Wireless CarPlay/AA | ✅ Most trims |
 
 ---
 

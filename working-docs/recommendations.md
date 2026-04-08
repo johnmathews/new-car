@@ -14,11 +14,12 @@ After comparing features, pricing, charging capability, and fit for the family's
 
 ## #1 Hyundai Ioniq 5 Lounge/Ultimate (€24,000–29,000)
 
-**Why it's #1:** Best combination of features, comfort, and price. ACC and electric tailgate are standard on every single trim — you don't need to worry about which spec you're buying. The 800V platform makes charging genuinely fast. Also has the **best panoramic glass of the three shortlisted cars** — the Lounge trim's large fixed vision roof is consistently praised as the most expansive of this class.
+**Why it's #1:** Best combination of features, comfort, and price. Predictive ACC (NSCC), blind spot detection, traffic sign recognition, and electric tailgate are all standard on every single trim — you don't need to worry about which spec you're buying. The 800V platform makes charging genuinely fast. Also has the **best panoramic glass of the three shortlisted cars** — the Lounge trim's large fixed vision roof is consistently praised as the most expansive of this class.
 
 **Strengths:**
 - Quietest cabin of the three (~67 dB at motorway speed)
-- ACC + electric tailgate standard on ALL trims
+- Predictive ACC (NSCC) + blind spot + traffic sign recognition + electric tailgate standard on ALL trims
+- Smart Parking Assist (SPA) from Ultimate (option on Lounge)
 - 360° camera from Lounge trim upward
 - Leather seats on Ultimate
 - 800V architecture → 10–80% charge in ~18 minutes at a fast charger
@@ -36,10 +37,11 @@ After comparing features, pricing, charging capability, and fit for the family's
 
 ## #2 Kia EV6 GT-Line (€27,000–32,000)
 
-**Why it's #2:** More features included as standard than any other option. If budget allows, it edges the Ioniq 5 on raw spec. Best audio system. But it consistently costs €3–5k more for equivalent spec. Note on panoramic glass: the EV6's sunroof is a **moonroof**, not a true panoramic panel — it is the smallest glass area of the three shortlisted cars and also reduces front headroom by ~56mm. A weakness given panoramic glass is now a top priority.
+**Why it's #2:** Most features included as standard of any option — 12/16 wishlist items including predictive ACC (NSCC-C), blind spot detection, traffic sign recognition, and Smart Parking Assist (SPA) all standard on GT-Line. If budget allows, it edges the Ioniq 5 on raw spec. Best audio system. But it consistently costs €3–5k more for equivalent spec. Note on panoramic glass: the EV6's sunroof is a **moonroof**, not a true panoramic panel — it is the smallest glass area of the three shortlisted cars and also reduces front headroom by ~56mm. A weakness given panoramic glass is now a top priority.
 
 **Strengths:**
-- Most features standard (9/15 from wishlist)
+- Most features standard (12/16 from wishlist)
+- Predictive ACC (NSCC-C) + blind spot + traffic sign recognition + SPA all standard on GT-Line
 - Best audio: Meridian 14-speaker system with subwoofer
 - Best rear legroom of the three
 - Same 800V platform and 10-year warranty as Ioniq 5
@@ -56,7 +58,7 @@ After comparing features, pricing, charging capability, and fit for the family's
 
 ## #3 Skoda Enyaq iV Edition/L&K (€18,000–27,000)
 
-**Why it's #3:** Great value and the biggest boot — closest to the Picasso in practicality. Too many desired features are locked behind optional packages on Gen 1. Gen 2 (refreshed) improves the software noticeably and adds electric tailgate on all trims. Note on panoramic glass: the optional sunroof on the regular SUV is **smaller than expected** — reviewers note it doesn't extend far over the rear seats. If maximum glass is the goal, the Enyaq SUV's optional roof is not as impressive as the Ioniq 5's vision roof. The Enyaq Coupé (different body style) has a full-length standard roof — the largest of all four options — but it's a different car.
+**Why it's #3:** Great value and the biggest boot — closest to the Picasso in practicality. Predictive ACC (pACC) is available but requires the Assisted Drive package. Blind spot detection requires the separate Side Assist package. Park Assist requires the Parking Plus package. Too many desired features are locked behind optional packages on Gen 1. Gen 2 (refreshed) improves the software noticeably and adds electric tailgate on all trims. Note on panoramic glass: the optional sunroof on the regular SUV is **smaller than expected** — reviewers note it doesn't extend far over the rear seats. If maximum glass is the goal, the Enyaq SUV's optional roof is not as impressive as the Ioniq 5's vision roof. The Enyaq Coupé (different body style) has a full-length standard roof — the largest of all four options — but it's a different car.
 
 **Test driven: 1 April 2026.** Positive experience — John's first EV drive and he found it much easier than ICE. ACC, cabin quietness, and audio quality all impressed. Panoramic windscreen/sunroof flagged as a big priority after this drive.
 
@@ -71,9 +73,9 @@ After comparing features, pricing, charging capability, and fit for the family's
 - Best cornering lights (fog lights double as cornering lights)
 
 **Weaknesses:**
-- **No electric tailgate on any trim** — potential dealbreaker
-- Blind spot + rear cross-traffic alert requires the Side Assist option package
-- Too many must-haves locked behind optional extras
+- **No electric tailgate on any pre-facelift trim** — potential dealbreaker
+- pACC requires Assisted Drive package; blind spot requires Side Assist; Park Assist requires Parking Plus — three separate option packages needed
+- Too many must-haves locked behind optional extras (7/16 standard vs 12/16 on EV6)
 - Slightly less striking design
 
 **Sweet spot trim:** Edition (adds rear blinds) or L&K (leather, massage, Canton audio)

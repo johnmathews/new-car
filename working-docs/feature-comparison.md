@@ -77,13 +77,15 @@ Legend: ✅ Standard | ⚠️ Option / higher trim | ❌ Not available
 
 ---
 
-## Scorecard
+## Scorecard (16-item wishlist, updated 8 April 2026)
 
 | | Ioniq 5 (Lounge) | EV6 (GT-Line) | Enyaq (L&K) |
 |---|---|---|---|
-| Features standard from wishlist | 8/15 | 9/15 | 5/15 |
-| Features available (standard or option) | 12/15 | 13/15 | 10/15 |
-| Features not available at all | 2/15 | 1/15 | 3/15 |
+| Features standard from wishlist | 9/16 | 12/16 | 7/16 |
+| Features available (standard or option) | 13/16 | 14/16 | 13/16 |
+| Features not available at all | 3/16 | 2/16 | 3/16 |
+
+> **Key insight — Enyaq option packages:** On a pre-2025 Enyaq, three separate packages are needed to match the Ioniq 5/EV6 on ADAS features: (1) **Assisted Drive** — gives pACC + Traffic Jam Assist + Blind Spot Detection + Crew Protect Assist, (2) **Side Assist** — blind spot indicators in mirrors + rear cross-traffic alert + exit warning, (3) **Parking Plus** — Park Assist (auto steering) + 360° Area View Camera + Trained Parking. Business Edition often has all three, but always verify.
 
 ---
 
@@ -91,6 +93,18 @@ Legend: ✅ Standard | ⚠️ Option / higher trim | ❌ Not available
 
 - **Fold-out rear tables** — these were standard on the Picasso and are genuinely not a thing in modern EVs. Suggest: aftermarket tablet holders that clip to the headrests.
 - **Hill start assist** — not needed in EVs. EVs hold automatically on hills via the motor (they don't roll back). Not a missing feature, just not necessary.
+
+---
+
+## Predictive ACC — key details
+
+All three cars have nav-based predictive ACC that automatically slows for curves, roundabouts, speed limits, and junctions — without driver input. Same concept, different names:
+
+- **Ioniq 5**: Navigation-based Smart Cruise Control (NSCC) — standard on ALL trims
+- **EV6**: Navigation-based Smart Cruise Control with Curve (NSCC-C) — standard on ALL trims
+- **Enyaq**: predictive ACC (pACC) — comes with Assisted Drive package. If an Enyaq has ACC, it has pACC (the ACC hardware is predictive by design). pACC is slightly broader than NSCC/NSCC-C — it also handles roundabouts and junctions, not just highway curves.
+
+All three also have **traffic sign recognition** as standard on every trim. The camera reads speed limit signs and shows them in the instrument cluster. With predictive ACC active, the car also adjusts its speed to match the detected limit.
 
 ---
 

@@ -43,7 +43,7 @@ The EV6 received a significant mid-cycle facelift, revealed **14 May 2024** and 
 
 ## Why it's #2
 
-The EV6 has more features included as standard than any other option on the shortlist. If you find a GT-Line within budget, it's an excellent car. It loses to the Ioniq 5 mainly on price — equivalent spec consistently costs €3,000–5,000 more — and the cabin is very slightly noisier.
+The EV6 has more features included as standard than any other option on the shortlist — 12/16 wishlist items, including predictive ACC (NSCC-C), blind spot detection, and traffic sign recognition on every trim. If you find a GT-Line within budget, it's an excellent car. It loses to the Ioniq 5 mainly on price — equivalent spec consistently costs €3,000–5,000 more — and the cabin is very slightly noisier.
 
 Shares the same 800V platform and 10-year battery warranty as the Ioniq 5 (they're built on the same underlying E-GMP architecture).
 
@@ -62,23 +62,26 @@ Shares the same 800V platform and 10-year battery warranty as the Ioniq 5 (they'
 
 ---
 
-## Features vs wishlist
+## Features vs wishlist (16-item list, updated 8 April 2026)
 
-| Feature | Status |
-|---------|--------|
-| Adaptive cruise control | ✅ Standard on ALL trims |
-| Electric tailgate | ✅ Standard on ALL trims |
-| Panoramic glass ⭐ PRIORITY | ⚠️ GT-Line — **moonroof, not a true panoramic panel**. Smaller than the Ioniq 5's vision roof. Reduces front headroom by ~56mm. Weakest of the three shortlisted cars for light and space. |
-| Parking assist (automated) | ✅ From GT-Line trim |
-| Reversing / 360° camera | ✅ From Wind trim upward |
-| Leather / premium seats | ✅ From GT-Line trim (standard, not option) |
-| Wireless phone charging | ✅ Most trims |
-| Wireless CarPlay | ✅ Most trims |
-| Heated seats | ✅ Standard |
-| Blind spot + rear cross-traffic | ✅ Standard |
-| Cooled seats | ✅ GT-Line S only (over budget) |
-| Fold-out rear tables | ❌ Not available |
-| Rear window blinds | ❌ Not available |
+| # | Feature | Status |
+|---|---------|--------|
+| 1 | **Predictive ACC (NSCC-C)** | ✅ Navigation-based Smart Cruise Control with Curve — standard ALL trims. Adjusts speed for curves, speed limits, and junctions using nav data. |
+| 2 | **Blind spot detection** | ✅ Standard — all trims (camera-based blind-spot *view monitor* is GT-Line+, but collision-avoidance assist is standard) |
+| 3 | **Traffic sign recognition** | ✅ Standard — all trims. Camera reads speed limits; with NSCC-C active, the car adjusts speed to match. |
+| 4 | **Panoramic glass** ⭐ | ⚠️ GT-Line — **moonroof, not a true panoramic panel**. Smaller than the Ioniq 5's vision roof. Reduces front headroom by ~56mm. Weakest of the three. |
+| 5 | **Reversing / 360° camera** | ✅ From Wind trim upward |
+| 6 | **Park assist (SPA)** | ✅ Smart Parking Assist — GT-Line standard. Car measures space and steers; you handle pedals. |
+| 7 | Electric tailgate | ✅ Standard ALL trims |
+| 8 | Air conditioning | ✅ Standard |
+| 9 | Leather / premium seats | ✅ From GT-Line trim (standard, not option) |
+| 10 | Fold-out rear tables | ❌ Not available |
+| 11 | Rear window blinds | ❌ Not available |
+| 12 | Tinted rear windows | ✅ Most trims |
+| 13 | Hill start assist | N/A (EVs hold automatically) |
+| 14 | Wireless phone charging | ✅ Most trims |
+| 15 | Cooled seats | ✅ GT-Line S only (over budget) |
+| 16 | Wireless CarPlay/AA | ✅ Most trims |
 
 ---
 

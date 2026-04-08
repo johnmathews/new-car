@@ -58,24 +58,40 @@ For features: Edition is the minimum sensible spec. L&K gets you leather and Can
 
 ---
 
-## Features vs wishlist
+## Features vs wishlist (16-item list, updated 8 April 2026)
 
-| Feature | Status |
-|---------|--------|
-| Adaptive cruise control | ✅ Standard |
-| **Electric tailgate** | ❌ **NOT available on any trim** |
-| Panoramic roof ⭐ PRIORITY | ✅ Available as **option** on Edition and above — **OPENS and TILTS** (most functional of the three). Must be specified on the listing — not standard. Enyaq Coupé has a larger FIXED panoramic glass roof standard on all trims. |
-| Parking assist (automated) | ✅ Available (option) |
-| Reversing / 360° camera | ✅ Available (some trims standard, some option) |
-| Leather / premium seats | ✅ From L&K trim |
-| Wireless phone charging | ✅ Most trims |
-| Wireless CarPlay | ✅ Most trims |
-| Heated seats | ✅ Standard |
-| Rear window blinds | ✅ Edition trim (unique to this car among the three) |
-| Blind spot + rear cross-traffic | ⚠️ Option (Side Assist package required) |
-| Tri-zone climate control | ✅ Standard (unique feature — independent rear zone) |
-| Cooled seats | ❌ Not available |
-| Fold-out rear tables | ❌ Not available |
+| # | Feature | Status |
+|---|---------|--------|
+| 1 | **Predictive ACC (pACC)** | ⚠️ Assisted Drive package. If the car has ACC, it has pACC — the hardware is predictive by design. pACC adjusts for curves, roundabouts, speed limits, and junctions using nav data. |
+| 2 | **Blind spot detection** | ⚠️ Side Assist package (option). Includes rear cross-traffic alert + exit warning. |
+| 3 | **Traffic sign recognition** | ✅ Standard — all trims. Camera reads speed limit signs. With pACC active, the car also adjusts speed to match. |
+| 4 | **Panoramic roof** ⭐ | ⚠️ Option on Edition and above — **OPENS and TILTS** (most functional of the three). Must be specified on the listing. Enyaq Coupé has a larger FIXED panoramic glass roof standard on all trims. |
+| 5 | **Reversing / 360° camera** | ⚠️ Varies — 360° camera is part of Parking Plus package |
+| 6 | **Park assist (auto steering)** | ⚠️ Parking Plus package — includes Park Assist + 360° Area View Camera + Trained Parking. NOT standard on any pre-2025 trim. |
+| 7 | Electric tailgate | ❌ NOT available on any pre-facelift trim |
+| 8 | Air conditioning | ✅ Standard |
+| 9 | Leather / premium seats | ✅ From L&K trim |
+| 10 | Fold-out rear tables | ❌ Not available |
+| 11 | Rear window blinds | ✅ Edition trim (unique to this car among the three) |
+| 12 | Tinted rear windows | ✅ Most trims |
+| 13 | Hill start assist | N/A (EVs hold automatically) |
+| 14 | Wireless phone charging | ✅ Most trims |
+| 15 | Cooled seats | ❌ Not available |
+| 16 | Wireless CarPlay/AA | ✅ Most trims |
+
+---
+
+## ⚠️ Enyaq option packages — critical for used car shopping
+
+On a pre-2025 Enyaq, three separate option packages cover most of the must-have ADAS features. They are independent — a car can have one without the others. Always check which packages are fitted.
+
+| Package | What it includes | Standard? |
+|---------|-----------------|-----------|
+| **Assisted Drive** | pACC + Traffic Jam Assist + Blind Spot Detection + Crew Protect Assist | ❌ Option |
+| **Side Assist** | Blind spot indicators in mirrors + rear cross-traffic alert + exit warning | ❌ Option |
+| **Parking Plus** | Park Assist (auto steering) + 360° Area View Camera + Trained Parking | ❌ Option — NOT on any pre-2025 trim |
+
+**Business Edition** models often have all three packages, but always verify. The 2025 facelift made Side Assist and pACC standard, but Park Assist is still optional.
 
 ---
 
@@ -182,7 +198,9 @@ Since electric tailgate is a nice-to-have for John rather than a must, the pre-f
 - [x] ~~Is the electric tailgate a dealbreaker?~~ No — confirmed nice-to-have only (March 2026)
 - [x] ~~Test drive the Enyaq~~ Done — 1 April 2026, positive experience
 - [ ] Specific listings — Edition or L&K within €20,000–27,000?
-- [ ] Side Assist package (blind spot) confirmed on any shortlisted car?
+- [ ] Assisted Drive package (pACC + blind spot) confirmed on any shortlisted car?
+- [ ] Side Assist package (blind spot indicators in mirrors + rear cross-traffic) confirmed?
+- [ ] Parking Plus package (Park Assist + 360° camera + Trained Parking) confirmed?
 - [ ] Heat pump confirmed on any shortlisted car?
 - [ ] Does the test-driven car have panoramic windscreen/sunroof? (Now a big priority)
 - [ ] Was the test-driven Enyaq Gen 1 or Gen 2? (Check software feel and whether tailgate was present)
